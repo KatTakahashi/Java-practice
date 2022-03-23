@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\tkaka\Desktop\practice\Java-practice\dwc_cocbase\.metadata\.plugins\org.eclipse.jdt.core
+3478687680.index
+1915138286.index
